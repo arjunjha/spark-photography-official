@@ -1,0 +1,373 @@
+/* title styling */
+#title {
+  color: #fff;
+  background-color: #f35588;
+  background-image: url(https://images.hdqwalls.com/download/girl-face-tattoo-4k-qo-1920x1080.jpg);
+}
+
+/* header section styling */
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5.2rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  color: #048998;
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #048998;
+  font-size: 30px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+
+/* content styling */
+.content-text {
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Permanent Marker', cursive;
+}
+.content-text:hover {
+  color: #fff;
+}
+
+/* container styling */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* navigation bar styling */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 3rem;
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+/* button styling */
+.btn {
+  margin: 5% 3% 5% 0;
+}
+.insta-btn {
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+  width: 120px;
+  height: 40px;
+  background-color: #7e0cf5;
+  transition: width 2s, height 2s, background-color 2s, transform 3s;
+}
+.insta-btn:hover {
+  background-color: #94fc13;
+  background-image: url(https://ibb.co/0sTv02z);
+  width: 100px;
+  height: 100px;
+  transform: rotate(360deg);
+}
+.fb-button {
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+  width: 120px;
+  height: 40px;
+  background-color: #ffa323;
+  transition: width 2s, height 2s, background-color 2s, transform 3s;
+}
+.fb-button:hover {
+  background-color: #064acb;
+  width: 100px;
+  height: 100px;
+  transform: rotate(360deg);
+}
+
+/* title image styling */
+.title-image {
+  padding: 60px;
+  padding-top: 80px;
+  width: 72%
+}
+
+/* feature-box styling */
+#features {
+  background-color: #553c8b;
+  padding: 5% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%
+}
+.box {
+  background-color: #40a798;
+}
+.box-img {
+  margin-bottom: 2rem;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.box-img:hover {
+  background-color: #40a798;
+  width: 100px;
+  height: 0;
+  transform: rotate(180deg);
+}
+
+/* testimonials styling */
+#testimonials {
+  text-align: center;
+  color: #fff;
+  background-color: #000000;
+}
+.testimonial-img {
+  margin: 20px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+
+
+/* press styling */
+#press {
+  background-color: #000000;
+  padding-bottom: 3%;
+
+
+}
+.box1{
+  background-color: #000000;
+}
+.press-heading {
+  color: #fff;
+}
+.press-content {
+  color: #fff;
+}
+.press-heading2 {
+  color: #fff;
+}
+.press-content2 {
+  color: #fff;
+}
+
+
+/* prizes page styling */
+#prizes {
+background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
+}
+.prize-body {
+  text-align: center;
+}
+.prize-text {
+  text-align: center;
+  font-family: 'Merienda One', cursive;
+  font-size: 5.2rem;
+  line-height: 1.5;
+  color: #fff;
+}
+.dslr-category{
+  color: #fcd307;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Merienda One', cursive;
+}
+
+/* about page styling */
+#about {
+  background-image: url(https://images.hdqwalls.com/wallpapers/earth-rocket-minimalism.jpg);
+
+}
+.about-body {
+  text-align: center;
+}
+.about-text {
+  text-align: center;
+  font-family: 'Merienda One', cursive;
+  font-size: 5.2rem;
+  line-height: 1.5;
+  color: #fff;
+  color: #d8cbbb;
+}
+.about-category {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Merienda One', cursive;
+}
+/* contact page styling */
+#contact1 {
+    background-image: url(https://images.hdqwalls.com/download/ice-cream-truck-minimal-4k-2h-1920x1080.jpg);
+}
+
+.contact-info {
+
+  text-align: center;
+  padding: 15% 10%;
+
+
+}
+.contact-text {
+  background-color: #fe9801;
+  text-align: center;
+  font-family: 'Merienda One', cursive;
+  font-size: 5.2rem;
+  line-height: 1.5;
+  color: #fff;
+  margin: 0;
+
+}
+.contact-txt {
+  background-color: #fe9801;
+  text-align: center;
+  font-family: 'Aladin', cursive;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #fff;
+  margin: 0;
+
+}
+
+
+/* faq styling */
+
+
+#faq-section {
+  padding: 7% 15%;
+}
+.faq-body {
+  background-image: url(https://images.hdqwalls.com/download/star-wars-stormtrooper-minimal-art-z4-1920x1080.jpg);
+
+}
+.faq-heading {
+  font-family: 'Merienda One', cursive;
+  font-size: 5.2rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+}
+
+
+
+
+#footer {
+  background-image: url(https://images.hdqwalls.com/download/pink-sunset-minimal-4k-qb-1920x1080.jpg);
+  padding: 7% 15%;
+}
+.p-contact {
+  margin: 20px auto;
+  text-align: center;
+font-family: monospace;
+font-size: 35px;
+margin-bottom: 0;
+padding-bottom: 25px;
+color: white;
+}
+.footer-body {
+  padding: 7% 15%;
+}
+.email-link {
+  text-align: center;
+}
+.gmail-img {
+padding-left: 385px;
+}
+
+
+/* ending-text */
+#ending-tag {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-image: url(https://images.hdqwalls.com/download/pink-sunset-minimal-4k-qb-1920x1080.jpg);
+}
+.ending-text{
+ text-shadow: 2px 2px 8px #000;
+ text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+  color: #fff;
+
+}
+
+
+/* note page styling */
+
+#note {
+  background-image: url(https://images.wallpaperscraft.com/image/origami_plane_art_128345_1920x1080.jpg);
+}
+.note-body {
+  text-align: center;
+}
+.note-heading {
+  font-family: 'Merienda One', cursive;
+  font-size: 10rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #42b883;
+}
+.note-body-text {
+  color: #fcd307;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Merienda One', cursive;
+
+}
+
+
+/* rules page styling */
+#rules {
+background-image: url(https://images.wallpaperscraft.com/image/minimalism_sky_clouds_sun_mountains_lake_landscape_95458_1920x1080.jpg);
+}
+.rules-body {
+  text-align: center;
+}
+.rules-heading {
+  font-family: 'Merienda One', cursive;
+  font-size: 10rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+}
+.rules-body-text {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Merienda One', cursive;
+}
+
+/* judging page styling */
+#judging {
+  background-image: url(https://images.hdqwalls.com/download/firewatch-tower-minimalism-4k-6l-1920x1080.jpg);
+}
+.judging-body {
+  text-align: center;
+}
+.judging-heading {
+  font-family: 'Merienda One', cursive;
+  font-size: 10rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+  animation-name:
+}
+.judging-body-text {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Merienda One', cursive;
+}
